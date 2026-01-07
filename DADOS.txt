@@ -1,0 +1,5 @@
+facu
+Dado 1: 1
+Dado 2: 6
+Suma: 7
+Fecha y hora: 2025-07-22 11:49:40.442625
